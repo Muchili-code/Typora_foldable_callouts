@@ -2,6 +2,8 @@
 > [!note]
 > This is my personal addition to typora personal callouts,which supports the callouts in typora to fold, like the obsidian.
 
+## demo
+<img width="2592" height="1030" alt="PixPin_2026-01-17_20-26-37" src="https://github.com/user-attachments/assets/17fc8e53-dbc7-423b-ab5d-76486d5cd919" />
 
 ## Q&A
 **Is my version of Typora supported?**
@@ -16,3 +18,9 @@ First, download the corresponding plugin according to the tutorial. Locate the `
 Then, enable the plugin's callout function support (supported by default upon download).
 
 Optional: Disable Typora's default callout support.
+
+## Supported syntax
+`> [!NOTE]+ "discription"`, which is deemed as folded by default. 
+
+
+
