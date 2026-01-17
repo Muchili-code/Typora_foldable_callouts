@@ -1,3 +1,5 @@
+English | [简体中文](https://github.com/Muchili-code/Typora_foldable_callouts/edit/main/README-cn.md)
+
 # Typora_foldable_callouts
 > [!note]
 > This is my personal addition to typora personal callouts,which supports the callouts in typora to fold, like the obsidian.
@@ -22,5 +24,8 @@ Optional: Disable Typora's default callout support.
 ## Supported syntax
 `> [!NOTE]+ "discription"`, which is deemed as folded by default. 
 
+## Conclusion
+This project follows the MIT license, feel free to enjoy it.
 
+If you find it useful, please give it a star ⭐, and feel free to recommend it to like-minded friends.
 
