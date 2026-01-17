@@ -13,7 +13,7 @@ Typora's version should be ≥ 0.9.98 (the last free version).
 For technical reasons, now it is only developed in Windows platform.
 
 ## Using method
-First, download the corresponding plugin according to the tutorial. Locate the `./resources/plugin/custom/plugins` directory where the downloaded plugin is located, and replace the entire content of `callout.js` with the content of `callouts.js` from the release.
+First, download the corresponding plugin according to the tutorial. Locate the `./resources/plugin/custom/plugins` directory where the downloaded plugin is located, and replace the entire content of `callout.js` with the content of `callouts.js` [from the release](https://github.com/Muchili-code/Typora_foldable_callouts/releases).
 
 Then, enable the plugin's callout function support (supported by default upon download).
 
